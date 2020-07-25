@@ -8,6 +8,10 @@ html, body {
     padding-top: 150px;
 }
 
+.sidenav {
+    padding: .5rem;
+}
+
 a {
     color: white;
     display: block;
@@ -16,8 +20,4 @@ a {
 
 a:hover {
     text-decoration: none;
-}
-
-.sidenav {
-    padding: .5rem;
 }
