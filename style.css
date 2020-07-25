@@ -10,4 +10,14 @@ html, body {
 
 a {
     color: white;
+    display: block;
+    padding: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.sidenav {
+    padding: .5rem;
 }
