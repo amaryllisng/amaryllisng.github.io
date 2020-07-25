@@ -1,4 +1,13 @@
-h1 {
-    color: pink;
-    text-align: center;
+html, body {
+    height: 100%;
+    background: black;
+    color: white;
+}
+
+#sidebar {
+    padding-top: 150px;
+}
+
+a {
+    color: white;
 }
