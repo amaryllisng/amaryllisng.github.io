@@ -1,21 +1,23 @@
 html, body {
     height: 100%;
-    background: white;
-    color: black;
+    background: #f5dac7;
+    color: #904d37;
     font-family: Georgia, serif;
     font-style: normal;
+    height: 100%;
 }
 
 #sidebar {
     padding-top: 150px;
 }
 
+
 .sidenav {
     padding: .5rem;
 }
 
 a {
-    color: black;
+    color: #904d37;
     padding: 0;
 }
 
@@ -25,4 +27,8 @@ a:hover {
 
 img {
     max-height: 540px;
+}
+
+h1 {
+    color: #e28976;
 }
