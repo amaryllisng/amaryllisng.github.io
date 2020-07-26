@@ -1,7 +1,9 @@
 html, body {
     height: 100%;
-    background: black;
-    color: white;
+    background: white;
+    color: black;
+    font-family: Georgia, serif;
+    font-style: normal;
 }
 
 #sidebar {
@@ -13,11 +15,14 @@ html, body {
 }
 
 a {
-    color: white;
-    display: block;
+    color: black;
     padding: 0;
 }
 
 a:hover {
     text-decoration: none;
+}
+
+img {
+    max-height: 540px;
 }
