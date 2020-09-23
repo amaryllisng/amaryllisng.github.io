@@ -1,9 +1,16 @@
 html, body {
-    height: 100%;
+    height: 100% !important;
     background: #f5dac7;
     color: #904d37;
     font-family: Georgia, serif;
     font-style: normal;
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.height {
     height: 100%;
 }
 
@@ -27,7 +34,11 @@ a:hover {
 }
 
 img {
-    max-height: 540px;
+    max-width: 400px;
+}
+
+div {
+    justify-content: center;
 }
 
 h1 {
